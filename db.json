@@ -1,69 +1,11 @@
-[{
-  "scheduleName": "Fire safty",
-  "scheduleLocation": "Chennai",
-  "scheduleDescription": "this is a safety about Fire and rescue",
-  "scheduleContent": [
-    {
-      "contentName": "fire training",
-      "contentDescription": "this is detailed description"
-    },
-    {
-      "contentName": "inro",
-      "contentDescription": "intro desc"
-    }
-  ],
-  "scheduleSpeaker": [
-    {
-      "name": "aswa",
-      "email": "aswa@gmail.com",
-      "company": "xyz",
-      "designation": "abc",
-      "avatarImg": "" },
-    {
-      "name": "dfbdjf",
-      "email": "dsfnsd",
-      "company": "dfnjd",
-      "designation": "dfdf",
-      "avatarImg": ""
-    }
-  ],
-  "startDate": "2020-02-11T04:32:11.731Z",
-  "endDate": "2020-02-11T04:32:11.731Z",
-  "startAt": "2020-02-11T04:32:11.731Z",
-  "endAt": "2020-02-11T04:32:11.731Z"
-}
-,
 {
-  "scheduleName": "safty",
-  "scheduleLocation": "delhi",
-  "scheduleDescription": "this is a safety about Fire and rescue",
-  "scheduleContent": [
+  "posts": [
     {
-      "contentName": "training",
-      "contentDescription": "this is detailed description"
-    },
-    {
-      "contentName": "inro",
-      "contentDescription": "intro desc"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "scheduleSpeaker": [
-    {
-      "name": "aswa",
-      "email": "aswa@gmail.com",
-      "company": "xyz",
-      "designation": "abc",
-      "avatarImg": ""   },
-    {
-      "name": "abc",
-      "email": "sbc",
-      "company": "abc",
-      "designation": "dfdf",
-      "avatarImg": ""
-    }
-  ],
-  "startDate": "2020-02-11T04:32:11.731Z",
-  "endDate": "2020-02-11T04:32:11.731Z",
-  "startAt": "2020-02-11T04:32:11.731Z",
-  "endAt": "2020-02-11T04:32:11.731Z"
-}]
+  "profile": {
+    "name": "typicode"
+  }
+}
